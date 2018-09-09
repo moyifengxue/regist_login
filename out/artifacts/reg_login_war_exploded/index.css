@@ -1,0 +1,39 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{margin: 0;padding: 0;list-style: none;font:12px/1.5 "Arial", "sans-serif", "微软雅黑", "宋体", "Tahoma"}
+
+body{background-image: url(jpg/6e1a0d3dbca58fc4e919c8cfe6f2384a.jpg);background-size: 100% 100%;/*background:#FFA8A8;*/}
+
+.mytop{background-image: url(jpg/timg3.png);color:#000000;text-align: center;height: 50px;border:1px solid #C4BEBE;}
+.mytop span{margin: 0;height: 50px;line-height: 50px;font-size: 18px;color:#980950}
+span:hover{color:#2AFF00}
+
+.main{width: 810px;margin: auto;}
+
+.main1{background:#FFFFFF;border:1px solid #C4BEBE;}
+.main1 video{border:1px solid #C4BEBE;}
+
+.class1{background: #FFFFFF;height: 60px;}
+.class1 from{margin: 0;height: 60px;line-height: 60px;float: right;border:1px solid #C4BEBE;}
+.class1 iframe{display: block; margin: auto;border:1px solid #C4BEBE;}
+
+.class2{background: #FFFFFF;border:1px solid #C4BEBE;padding: 10px;overflow:hidden;}
+.class2 h4{text-align: center;color:#830002;font-weight: bold;	}
+.class2 li{width: 90px;height: 30px;background: #E5E1E1;border:1px solid #C4BEBE;float: left;margin: 9px;}
+.class2 a{display: block;margin: 0;height: 30px;color: #000000;line-height: 30px;text-align: center;text-decoration:none;	}
+.class2 a:hover{background:#F97C7E;color: #FFFFFF; }
+
+.class4{background: #FFFFFF;border:1px solid #C4BEBE;padding: 10px;overflow:hidden;}
+.class4 h4{text-align: center;color:#830002;font-weight: bold;	}
+.class4 li{width: 90px;height: 30px;background: #E5E1E1;border:1px solid #C4BEBE;float: left;margin: 9px;}
+.class4 a{display: block;margin: 0;height: 30px;color: #000000;line-height: 30px;text-align: center;text-decoration:none;	}
+.class4 a:hover{background:#F97C7E;color: #FFFFFF; }
+
+.class5{background: #FFFFFF;border:1px solid #C4BEBE;padding: 10px;overflow:hidden;}
+.class5 h4{text-align: center;color:#830002;font-weight: bold;	}
+.class5 a{display: block;margin: 0;height: 30px;color: #000000;line-height: 30px;text-align: center;text-decoration:none;font-size: 14px;}
+.class5 a:hover{background:#F97C7E;color: #FFFFFF;border:1px solid #C4BEBE;}
+
+.bottom{background:#DD2E31;color: #FFFFFF;text-align:center;height: 50px;line-height: 50px;}
+.photo1 img{width: 250px;height: 670px;position: absolute;top 330px;left: 0;border:1px solid #C4BEBE;}
+.photo2 img{width: 250px;height: 670px;position: absolute;top 330px;right: 0;border:1px solid #C4BEBE;}
+.photo3 img{width: 100px;height: 100px;position:fixed;bottom:0;left:0;border:1px solid #C4BEBE;}
+.photo4 img{width: 100px;height: 100px;position:fixed;bottom:0;right:0;border:1px solid #C4BEBE;}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+    <tr>
+        <td class="td1">昵  称：</td>
+        <td><input type="text" class="input1" id="user_name" name="user_name" minlength="5" maxlength="16" placeholder="请输入昵称"></td>
+    </tr>
+    <tr>
+        <td class="td1">性别</td>
+        <td>
+            <input type="radio" name="sex" value="男">男
+            <input type="radio" name="sex" value="女">女
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <div class="btn-red">
+                <input type="button" value="注  册" id="login-btn" onclick="user_name()">
+            </div>
+        </td>
+    </tr>
+</table>

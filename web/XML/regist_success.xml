@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+    <tr>
+        <td>没有都市的繁华，没有山林的鸟语花香，只有一片如水的宁静，来这里你可以静心休憩你的灵魂，调养你疲惫的心</td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <div class="btn-red">
+                <a href="login.jsp"><input type="button" class="input1" value="完  成" id="login-btn"></a>
+            </div>
+        </td>
+    </tr>
+</table>

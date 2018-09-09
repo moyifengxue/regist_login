@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+    <tr>
+        <td class="td1">账  号：</td>
+        <td><input type="text" class="input1" name="user_id" id="user_id" minlength="5" maxlength="16" placeholder="请输入账号"></td>
+    </tr>
+    <tr>
+        <td class="td1">密  码：</td>
+        <td><input type="password" class="input1" name="password" id="password" minlength="5" maxlength="16" placeholder="请输入密码"></td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <div class="btn-red">
+                <input type="button" value="下一步" id="login-btn" onclick="user_id()">
+            </div>
+        </td>
+    </tr>
+</table>
